@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jirko!", "Jirko!.csproj", "{01ABFDCD-1EEF-4D80-A164-71A5B6DDE5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01ABFDCD-1EEF-4D80-A164-71A5B6DDE5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01ABFDCD-1EEF-4D80-A164-71A5B6DDE5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01ABFDCD-1EEF-4D80-A164-71A5B6DDE5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01ABFDCD-1EEF-4D80-A164-71A5B6DDE5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AE5C3B5-F61F-4BFF-8013-03E411AD5AC2}
+	EndGlobalSection
+EndGlobal
